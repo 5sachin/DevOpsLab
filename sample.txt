@@ -1,3 +1,2 @@
 DevOpsLab Sample Text
 Second Sample Text
-Third Sample Text
